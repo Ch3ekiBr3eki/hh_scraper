@@ -9,6 +9,7 @@
    <img src="https://img.shields.io/badge/beautifulsoup-red" alt="bs4"> 
 </p>
 
+[HeadHunter Website Link](https://hh.ru/)
 ## About
 Web scrapper written specifically for the headhunter website that can collect data on your request. In this case I need it for the query "data". With the help of the obtained data I plan to make an extended analysis to understand the market of data specialists, as I myself started actively looking for a job after June 2023.
 The project is an automated script for collecting data on vacancies from the popular recruiting portal HeadHunter. With the help of this script you can get information about various vacancies in a certain field (for example, "data") and region (for example, Moscow), as well as descriptions, salaries, required experience and tags for each vacancy.
