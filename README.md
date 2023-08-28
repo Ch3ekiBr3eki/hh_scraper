@@ -71,3 +71,4 @@ Adaptability: You can customize search parameters (query text, region) and easil
 
 - [Anton Belyaev]([GitHub Profile Link](https://github.com/Ch3ekiBr3eki))
 - [Anton Belyaev]([Kaggle Profile Link](https://www.kaggle.com/antonbelyaevd))
+- ([Kaggle Dataset Link](https://www.kaggle.com/datasets/antonbelyaevd/headhunter-vacancies-for-data-search))
